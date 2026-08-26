@@ -1,0 +1,6 @@
+{
+  "name": "EduPulse Academy Portal",
+  "description": "Interactive college academic portal with student & faculty dashboards, real-time course feedback, rating analytics, and submission workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
